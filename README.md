@@ -1,9 +1,5 @@
 # Instacartpython
 
-# Instacartpython
-
-Instacart_Python
-
 This repor contains Instacart grocery analysis conducted using Python. This was part of a CareerFoundry analytics course.
 
 Objective
